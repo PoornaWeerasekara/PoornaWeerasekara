@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Poorna
 
-<!--
-**PoornaWeerasekara/PoornaWeerasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Cyber Security undergraduate at SLIIT, focused on networking,
+network security and threat detection.
 
-Here are some ideas to get you started:
+**Currently**
+- Student Services Intern at SLIIT
+- Research on digital twin driven anomaly detection for satellite ground
+  stations, accepted at ICAC 2026
+- Team research on cosmic ray induced bit-flips in spacecraft memory,
+  AstroNova 2026 with SEDS University of Moratuwa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with**
+Python · Java · C · Linux · Cisco Packet Tracer · Wireshark · tshark ·
+Docker · SQL · Git
+
+**Interested in**
+Network security, threat detection, DevSecOps, and space systems security.
+
+**Reach me**
+[LinkedIn](https://linkedin.com/in/poorna-weerasekara2003) ·
+ppoornaweerasekara@gmail.com
